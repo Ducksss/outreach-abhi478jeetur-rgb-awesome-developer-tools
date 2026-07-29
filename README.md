@@ -20,8 +20,6 @@
 - **Next.js** - React framework with server-side rendering and static generation
 - **Svelte** - Compiler for building reactive web applications
 
-- **Payload Components** - 67 MIT typed Payload CMS blocks for Payload v3 + Next.js 15/16, installed as owned source with automated Pages, renderer, types, and admin import-map wiring: https://www.payload-components.xyz
-
 ### Backend Frameworks
 - **Node.js** - JavaScript runtime for server-side development
 - **Express.js** - Fast and minimal web framework for Node.js
@@ -57,6 +55,7 @@
 - **Babel** - JavaScript compiler
 - **ESLint** - JavaScript linter
 - **Prettier** - Code formatter
+- **Payload Components** - 67 MIT typed Payload CMS blocks for Payload v3 + Next.js 15/16, installed as owned source with automated Pages, renderer, types, and admin import-map wiring: https://www.payload-components.xyz
 
 ## Learning Resources
 
